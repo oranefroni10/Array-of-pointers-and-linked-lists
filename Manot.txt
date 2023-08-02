@@ -1,0 +1,4 @@
+Pizza 40 10
+Pasta 22 30
+Steak 31 25
+Fish 10 20

@@ -1,0 +1,12 @@
+System description
+A computerized system for managing restaurants - in linked lists. 
+The restaurant has two components: a kitchen that creates dishes and a dining room.
+The input of the program:
+The input to the program is made from two files:
+• The first input comes from the attached Instructions.txt file (as an example file), which contains a sequence of commands to be done in the restaurant,for example: ordering a dish, canceling a dish, closing a table, etc.
+Each line in this file will represent an operation in the restaurant: the first character in the line will be a number between 1-5 that will represent the serial number of the function to be run.
+The rest of the words/numbers on the same line will be mandatory parameters for the selected function. Each parameter will be separated by one space on the same line.
+• The second input comes from the attached Manot.txt input file (as an example file), which contains the details of the dishes that will be fed to the kitchen when the restaurant opens.
+• The program will display all outputs to an output.txt file, including various error messages.
+
+In order to run the program, make sure that all the files are in the same folder.
