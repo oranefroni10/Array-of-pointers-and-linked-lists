@@ -1,1 +1,0 @@
-# Array-of-pointers-and-linked-lists
